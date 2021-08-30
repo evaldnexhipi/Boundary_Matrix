@@ -12,6 +12,6 @@ $ python3 GetSegments.py boundaries_file_path
 (i.e let boundaries_file_path be boundaries_output.txt)
 
 ### Option 2 (Image Based)
-$ pthon3 GetSegments_Photo.py fig2.jpg
+$ python3 GetSegments_Photo.py fig2.jpg
 
 While Running the Program, the segments and their respective drawings will be visible.
